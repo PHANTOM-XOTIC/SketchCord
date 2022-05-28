@@ -1,0 +1,2 @@
+An example trigger of API
+{"url":"WEBHOOK_URL","content":"Watch out","username":"Stupid","embed_color":"#00B0FF","embed_description":"I don't know what I'm doing guys, help me.","embed_footer":"Powered by SketchCord","embed_img_url":"https://i.imgur.com/ZGPxFN2.jpg","embed_title":"Embed title","embed_timestamp":"2022-05-27T05:00:00.000Z","tts":"false","embed_field1_name":"Field name","embed_field1_value":"Field value","embed_field2_name":"Idk","embed_field2_value":"Idk either"}
